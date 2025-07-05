@@ -41,3 +41,8 @@ This project is a great example of how basic web technologies can be combined to
 This project demonstrates a solid understanding of HTML structure, CSS styling, and JavaScript DOM manipulation, without relying on any external frameworks. It also reflects attention to detail in layout balance, responsiveness across devices, and branding consistency.
 
 Overall, this portfolio website serves as a professional showcase for Shahnoor Ishtiyaque’s frontend skills, combining simplicity, creativity, and functionality in a single-page layout. It is ideal for potential employers or clients who want a quick yet impactful overview of the developer's personal brand and web development capabilities.
+
+
+
+#OUTPUT
+<img width="1916" height="1009" alt="Image" src="https://github.com/user-attachments/assets/e63f6649-65ca-42f7-8f7a-69b04ae44cea" />
