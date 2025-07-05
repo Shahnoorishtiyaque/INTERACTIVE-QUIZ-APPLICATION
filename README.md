@@ -13,14 +13,31 @@
 *MENNTOR*: NEELA SANTOSH KUMAR
 
 
-This personal portfolio website is a fully responsive, aesthetically designed project developed using pure HTML, CSS, and vanilla JavaScript. It serves as a digital identity for showcasing Shahnoor Ishtiyaque as a Frontend Developer who is skilled in crafting engaging web interfaces and user experiences.
+This quiz application is a sleek, single-page project built using HTML, CSS, and JavaScript. It provides users with an engaging quiz experience, featuring a dynamic timer and score calculation. The clean and minimalist UI design ensures easy readability and user interaction.
 
-The website opens with a clean hero section that makes a strong first impression. On the left, a warm and professional introduction highlights the developer’s name, role, and a brief tagline: "Frontend Developer who speaks fluent HTML, CSS, and a little JavaScript charm." This tagline reflects the essence of the developer’s technical capabilities and design thinking. On the right side, there's a visually appealing circular image of Shahnoor overlaid on a semi-transparent blob, with lines of JavaScript code faded in the background — creatively symbolizing the developer’s coding skills and aesthetic sense.
+The app launches with a centered quiz container that presents a multiple-choice question with four options. Users can select one option and then click the “Submit” button. Above the quiz card, there is a circular timer visually indicating the time left to answer each question. Once the time is up, the next question is automatically loaded or the result is shown depending on the quiz logic.
 
-At the top of the page, a navigation bar links to key sections such as Home, About Me, Skills, and Contact Me. The navigation is intuitive and maintains a minimalist design, with smooth spacing and alignment. There's also a dark mode toggle icon (represented by a moon), hinting at an interactive theme-switching functionality, which adds a modern touch and improves user experience across different lighting preferences.
+After completing all the questions, a message is displayed showing the user’s final score, e.g., “Hi, you’ve scored 0 / 4”. This gives instant feedback, which is crucial in keeping the user informed and motivated to retake the quiz.
 
-The visual style uses gradients and soft color transitions, giving the site a light and inviting feel. The use of JavaScript is subtle but effective, providing interactivity such as hover effects, potential scroll animations, or theme toggling logic. The code-inspired background, featuring snippets of JavaScript functions like querySelector and setTimeout, not only enhances the tech vibe but also adds personality to the design.
+Key highlights of the project:
 
+✅ HTML handles the structure of the quiz elements including questions, options, submit button, and result.
+
+🎨 CSS is used to design a modern, responsive layout. The background is dark with contrasting teal-colored cards, giving it a professional look. The radio buttons and quiz cards are styled for clarity and ease of use.
+
+⚙️ JavaScript powers the core functionality of the app. It:
+
+Loads questions dynamically
+
+Tracks user selections
+
+Manages the timer (with a countdown)
+
+Calculates the score
+
+Displays the result once the quiz is complete or the timer ends
+
+This project is a great example of how basic web technologies can be combined to build a functional and interactive application. It’s ideal for beginners learning JavaScript DOM manipulation, event handling, and dynamic content updates.
 This project demonstrates a solid understanding of HTML structure, CSS styling, and JavaScript DOM manipulation, without relying on any external frameworks. It also reflects attention to detail in layout balance, responsiveness across devices, and branding consistency.
 
 Overall, this portfolio website serves as a professional showcase for Shahnoor Ishtiyaque’s frontend skills, combining simplicity, creativity, and functionality in a single-page layout. It is ideal for potential employers or clients who want a quick yet impactful overview of the developer's personal brand and web development capabilities.
